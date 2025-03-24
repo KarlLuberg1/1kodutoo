@@ -2,9 +2,9 @@ Elektroonilise kella kodutöö
 
 Autor: Karl Luberg
 
-![Ekraanipilt 1](https://github.com/KarlLuberg1/1kodutoo/screenshots/Screenshot_kell1.png
+![Ekraanipilt 1](https://github.com/KarlLuberg1/1kodutoo/blob/main/screenshots/Screenshot_kell1.png
 
-![Ekraanipilt 2](https://github.com/KarlLuberg1/1kodutoo/screenshots/Screenshot_kell2.png
+![Ekraanipilt 2](https://github.com/KarlLuberg1/1kodutoo/blob/main/screenshots/Screenshot_kell2.png
 
 Funktsionaalsus:
 Selles kella rakenduses on võimalik ekraanil klikates liikuda 3 erineva taustapildi vahel.
